@@ -14,7 +14,7 @@
           <mxGeometry x="40" y="100" width="780" height="367.12" as="geometry" />
         </mxCell>
         <mxCell id="6" value="app.py" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E1F5FE;" parent="2" vertex="1">
-          <mxGeometry x="90" y="134" width="410" height="110" as="geometry" />
+          <mxGeometry x="90" y="134" width="410" height="156" as="geometry" />
         </mxCell>
         <mxCell id="VfrA_0xXDG41cp71wuaG-117" value="" style="shape=mxgraph.gcp2.doubleRect;strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" parent="2" vertex="1">
           <mxGeometry x="180" y="350" width="198" height="68" as="geometry" />
@@ -95,7 +95,7 @@
             <mxPoint x="19" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5" value="Storage" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E1F5FE;" parent="VfrA_0xXDG41cp71wuaG-119" vertex="1">
+        <mxCell id="5" value="Templi" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E1F5FE;" parent="VfrA_0xXDG41cp71wuaG-119" vertex="1">
           <mxGeometry x="-50" width="190" height="250" as="geometry" />
         </mxCell>
         <mxCell id="VfrA_0xXDG41cp71wuaG-121" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" parent="1" vertex="1">
