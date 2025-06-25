@@ -8,7 +8,7 @@
           <mxGeometry x="240" y="170" width="820" height="520" as="geometry" />
         </mxCell>
         <mxCell id="VfrA_0xXDG41cp71wuaG-125" value="dㅇㅇ" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" parent="2" vertex="1">
-          <mxGeometry x="26.320987654320987" y="202.71186440677965" width="121.4814814814815" height="52.88135593220339" as="geometry" />
+          <mxGeometry x="20.000987654320987" y="160.00186440677965" width="121.4814814814815" height="52.88135593220339" as="geometry" />
         </mxCell>
         <mxCell id="4" value="통합관리 시스템" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#FFEBEE;" parent="2" vertex="1">
           <mxGeometry x="40" y="100" width="780" height="367.12" as="geometry" />
