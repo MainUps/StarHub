@@ -33,7 +33,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8" value="보안팀" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;" parent="1" vertex="1">
-          <mxGeometry x="70" y="190" width="110" height="430" as="geometry" />
+          <mxGeometry x="70" y="240" width="110" height="380" as="geometry" />
         </mxCell>
         <mxCell id="39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startFill=1;startSize=4;endArrow=blockThin;endFill=1;endSize=4;jettySize=auto;orthogonalLoop=1;strokeColor=#4284F3;strokeWidth=2;fontSize=12;fontColor=#000000;align=left;dashed=0;startArrow=blockThin;" parent="1" source="VfrA_0xXDG41cp71wuaG-125" edge="1">
           <mxGeometry relative="1" as="geometry">
